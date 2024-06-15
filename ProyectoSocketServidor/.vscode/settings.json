@@ -1,14 +1,29 @@
 {
   "cSpell.words": [
+    "alexander",
+    "archivoxml",
+    "clasetipocliente",
+    "clientedos",
+    "clientetres",
     "clparm",
+    "cltipo",
     "condicion",
+    "gomez",
     "hiloherencia",
     "hilointerfaz",
     "hilosconnumeros",
+    "idcliente",
+    "idtipocliente",
     "impresion",
     "Imterrupted",
+    "jaxb",
+    "Jaxb",
+    "jaxcont",
+    "leerarchivoxml",
+    "leerxml",
     "milisegundo",
     "milisegundos",
+    "nilson",
     "nomhilo",
     "numeros",
     "Parametros",
@@ -18,6 +33,8 @@
     "sumapares",
     "sumimpares",
     "sumpar",
-    "sumpares"
+    "sumpares",
+    "telefono",
+    "Unmarshaller"
   ]
 }
